@@ -72,6 +72,6 @@ Il codice sorgente completo è mantenuto in un repository privato per proteggere
 
 ## Contatti
 
-Matteo Placentino — [Email](teoplace02@icloud.com)
+Matteo Placentino — [teoplace02@icloud.com](mailto:teoplace02@icloud.com)
 
 *CarTwin è un progetto in sviluppo attivo. Per richieste di partnership o collaborazione, contattare via email.*
