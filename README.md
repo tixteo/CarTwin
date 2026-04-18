@@ -48,8 +48,6 @@ Copertura stimata: ~60% del parco circolante europeo.
 - 🔄 In corso: integrazione affiliate marketplace ricambi
 - 🔄 In corso: deploy produzione + pubblicazione store
 
-**Lancio previsto:** Q3 2026
-
 ---
 
 ## Modello di business
